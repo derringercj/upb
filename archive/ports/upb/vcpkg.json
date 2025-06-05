@@ -1,0 +1,6 @@
+{
+    "name": "upb",
+    "version": "4.25.1",
+    "description": "Fork of upb protobuf library",
+    "homepage": "https://github.com/derringercj/upb"
+}
